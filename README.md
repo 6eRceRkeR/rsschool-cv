@@ -1,2 +1,3 @@
-# rsschool-cv
-https://@jeka_kislui.github.io/rsschool-cv/cv
+# rsschool-cv#
+#https://6eRceRkeR.github.io/rsschool-cv/
+
